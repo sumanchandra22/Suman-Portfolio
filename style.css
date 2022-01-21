@@ -173,7 +173,6 @@ header .navbar ul li a:hover{
 }
 .home-cv h3{
     margin-top: 3rem;
-  
     margin-right: 5rem;
     
 
@@ -317,9 +316,10 @@ header .navbar ul li a:hover{
 
 .portfolio .box-container .box img{
     height:20%;
-    width:30%;
+    width:30%; 
     margin-right: 4rem;
     border-radius: 1rem;
+    border: solid var(--yellow);
     cursor: pointer;
     object-fit: cover;
 }
